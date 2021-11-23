@@ -1,2 +1,3 @@
-# Versão 1
-# Versão 2
+# Versï¿½o 1
+# Versï¿½o 2
+# VersÃ£o 3
